@@ -6,6 +6,8 @@ to implemnt and secure a web app
 
 The security implementation here rely on server side session and server side calls instead if saving sensetive data on the client browser we have a server session for each user.
 
+
+Please note that i focues on only auth and localization part only for the web implemntation.
 ### Run development server
 
 ```bash
@@ -181,3 +183,8 @@ NEXTAUTH_URL=
 NEXTAUTH_SECRET=
 
 ```
+
+## Todo:
+
+1. Dashboard
+2. End to end testing
