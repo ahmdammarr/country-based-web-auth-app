@@ -1,0 +1,34 @@
+export const COLORS = {
+  // black
+  'system-black': '#232323',
+  'system-darker': '#0E0E0E',
+  'system-white': '#FFFFFF',
+  'system-off-white': '#F0F0F0',
+  'system-light-green': '#E0F7DE',
+  'system-green': '#41BD2C',
+  'green-25': '#F1FEEC',
+  'system-red': '#980303',
+  'light-white': '#FBFBFB',
+  'almost-white': '#F2F2F2',
+  // grey
+  'grey-300': '#4C4C4C',
+  'grey-200': '#797979',
+  'grey-100': '#A9A9A9',
+  'grey-50': '#DEDEDE',
+  'grey-25': '#F9F9F9',
+  // brik
+  'brik-300': '#4B2A24',
+  'brik-200': '#81493D',
+  'brik-100': '#B86758',
+  'brik-50': '#EF8671',
+  'brik-25': '#FDEFED',
+  // mango
+  'mango-25': '#FEF6EC',
+  'mango-200': '#856A47',
+  // blue
+  'blue-25': '#EDF5FD',
+  'blue-50': '#4A9EE9',
+  // coral
+  'coral-100': '#AD4D5F',
+  'coral-25': '#FCEEF0',
+}
